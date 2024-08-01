@@ -57,26 +57,25 @@ When we scan the lines of code and vulnerabilities we find examples of how to fi
 For a better understanding of vulnerabilities, we offer an example of vulnerable code and an example of safe code to implement in your application.
 I see examples of how developers will view the breakdown and example of vulnerable and secure code:
 
-### 1 - [Remote Command Execution - GoLang](https://leapfix.co/?id=e5d9087fbff347f2d1cb8c5a55fc417d)
+### 1 - [Remote Command Execution - GoLang](https://leapfix.co/details.php?id=e5d9087fbff347f2d1cb8c5a55fc417d)
 
-### 2 - [Insecure Deserialization - Ruby](https://leapfix.co/?id=f2b1e4a6c8d3a9e7b5c2d1f4e9a6b8d)
+### 2 - [Insecure Deserialization - Ruby](https://leapfix.co/details.php?id=f2b1e4a6c8d3a9e7b5c2d1f4e9a6b8d)
 
-### 3 - [Potential SQL Injection in SELECT - PHP ](https://leapfix.co/?id=15c501fae8c2c7b72260534844f93d63)
+### 3 - [Potential SQL Injection in SELECT - PHP ](https://leapfix.co/details.php?id=15c501fae8c2c7b72260534844f93d63)
 
-### 4 - [XSS via Unsanitized Output - TypeScript (ReactJS)](https://leapfix.co/?id=ae2b1fca515949e5d54fb22b8ed95575)
+### 4 - [XSS via Unsanitized Output - TypeScript (ReactJS)](https://leapfix.co/details.php?id=ae2b1fca515949e5d54fb22b8ed95575)
 
-### 5 - [TLS 1.0: Insufficient Cryptographic Algorithm Strength  - ADVPL](https://leapfix.co/?id=6adc689380264659017c2d6094e75b4e)
+### 5 - [TLS 1.0: Insufficient Cryptographic Algorithm Strength  - ADVPL](https://leapfix.co/details.php?id=6adc689380264659017c2d6094e75b4e)
 
-### 6 - [XML External Entities (XXE) - Python](https://leapfix.co/?id=e4a6d9f8b2c3f7c1d5e0a8b9c1e2d0f)
+### 6 - [XML External Entities (XXE) - Python](https://leapfix.co/details.php?id=e4a6d9f8b2c3f7c1d5e0a8b9c1e2d0f)
 
-### 7 - [Improper Certificate Validation - JavaScript](https://leapfix.co/?id=5f4dcc3b5aa765d61d8327deb882cf99)
+### 7 - [Improper Certificate Validation - JavaScript](https://leapfix.co/details.php?id=5f4dcc3b5aa765d61d8327deb882cf99)
 
-### 8 - [Improper Use of Cookies - PHP](https://leapfix.co/?id=a8d3d0d1be1d74e0b89d2ea8ad0d4685)
+### 8 - [Improper Use of Cookies - PHP](https://leapfix.co/details.php?id=a8d3d0d1be1d74e0b89d2ea8ad0d4685)
 
-### 9 - [Insecure Communication - Dart](https://leapfix.co/?id=d5400fcef8873df0c253c4278a78d73b)
+### 9 - [Insecure Communication - Dart](https://leapfix.co/details.php?id=d5400fcef8873df0c253c4278a78d73b)
 
-### 10 - [Potential SQL Injection in SELECT - ADVPL](https://leapfix.co/?id=01caea706a18eb8ec8d0126557d026eb)
-
+### 10 - [Potential SQL Injection in SELECT - ADVPL](https://leapfix.co/details.php?id=01caea706a18eb8ec8d0126557d026eb)
 
 ### Inovation
 LeapFix is ​​the only plugin in the world that performs static code analysis (SAST) in the ADVPL language.
