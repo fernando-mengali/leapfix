@@ -1,0 +1,6 @@
+### LeapFix
+
+Plugin Leap Fix SAST SCAN
+Downlaod Market Place Visual Studio:
+
+https://marketplace.visualstudio.com/items?itemName=FernandoMengali.leapfix-sast-scan
